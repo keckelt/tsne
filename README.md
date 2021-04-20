@@ -1,7 +1,8 @@
 # tSNE
+ ![npm (scoped)](https://img.shields.io/npm/v/@keckelt/tsne?style=flat)
 
-Updated implementation of [tSNEJS](https://github.com/karpathy/tsnejs) in TypeScript.
-Published it on NPM: `npm install @keckelt/tsne`.
+Updated implementation of [tSNEJS](https://github.com/karpathy/tsnejs) in TypeScript.  
+Published on NPM: `npm install @keckelt/tsne`.
 
 ## Usage
 
