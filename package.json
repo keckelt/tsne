@@ -1,14 +1,14 @@
 {
   "name": "@keckelt/tsne",
   "description": "Updated t-SNE implementation in TypeScript.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Klaus Eckelt",
   "license": "MIT",
   "homepage": "https://github.com/keckelt/tsne#readme",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "prepare" : "npm run build",
+    "prepare": "npm run build",
     "preview": "npm pack --dry-run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,7 @@
   "devDependencies": {
     "typescript": "^4.2.4"
   },
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
