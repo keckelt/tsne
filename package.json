@@ -1,7 +1,7 @@
 {
   "name": "@keckelt/tsne",
   "description": "Updated t-SNE implementation in TypeScript.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Klaus Eckelt",
   "license": "MIT",
   "homepage": "https://github.com/keckelt/tsne#readme",
