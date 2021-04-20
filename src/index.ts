@@ -1,1 +1,1 @@
-export * from "./tsne";;
+export {TSNE} from './tsne'
