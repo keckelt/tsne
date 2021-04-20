@@ -9,6 +9,7 @@
   "scripts": {
     "build": "tsc",
     "prepare" : "npm run build",
+    "preview": "npm pack --dry-run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
