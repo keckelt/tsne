@@ -6,7 +6,7 @@ Published it on NPM: `npm install @keckelt/tsne`.
 ## Usage
 
 ```ts
-import { TSNE } from '@keckelt/tsne-js';
+import {TSNE} from '@keckelt/tsne-js';
 
 const data = [...];
 
