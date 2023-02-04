@@ -7,7 +7,7 @@ Published on NPM: `npm install @keckelt/tsne`.
 ## Usage
 
 ```ts
-import {TSNE} from '@keckelt/tsne-js';
+import {TSNE} from '@keckelt/tsne';
 
 const data = [...];
 
@@ -37,7 +37,7 @@ You can use [Comlink](https://github.com/GoogleChromeLabs/comlink), for example,
 
 ```ts
 import * as Comlink from 'comlink';
-import { TSNE } from '@keckelt/tsne-js';
+import { TSNE } from '@keckelt/tsne';
 
 Comlink.expose(TSNE);
 ```
